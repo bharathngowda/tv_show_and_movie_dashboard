@@ -10,6 +10,7 @@ Enter the movie or tv show name in the search bar and it loads all the revlevant
 
 ![App Screenshot](https://github.com/bharathngowda/tv_show_and_movie_dashboard/blob/main/Screenshots/Picture1.png)
 
+###### Note: The dashboard takes 20-30 secs to load info for the search performed. This is because the Imd package used scraps the Imdb website realtime and takes time to scrape the info. Also active internet connection is required.
 
 ### Programming Language and Packages
 
