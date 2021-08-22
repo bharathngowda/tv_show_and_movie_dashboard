@@ -5,7 +5,7 @@ Enter the movie or tv show name in the search bar and it loads all the revlevant
 
 ### Video
 
-![App Screenshot]()
+![App Screenshot](https://github.com/bharathngowda/tv_show_and_movie_dashboard/blob/main/video.gif)
 ### Screenshots
 
 ![App Screenshot](https://github.com/bharathngowda/tv_show_and_movie_dashboard/blob/main/Screenshots/Picture1.png)
