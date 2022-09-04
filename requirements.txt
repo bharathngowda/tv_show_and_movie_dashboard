@@ -28,3 +28,4 @@ urllib3==1.26.6
 Werkzeug==2.0.1
 xlrd==2.0.1
 IMDbPY==2020.9.25
+gunicorn
