@@ -110,6 +110,7 @@ data_table_cell_style={'backgroundColor':'rgb(38, 70, 83)','color': 'white','tex
 # App Layout
 
 app=dash.Dash(__name__)
+server=app.server #For deploying
 
 app.layout=html.Div([
 html.Div(html.H1("TV Shows & Movies Information",style=head_style),className='row',style=page_bg),
@@ -692,5 +693,6 @@ def Update_Details(n_clicks,id):
 
     return child
 if __name__=='__main__':
-    app.run_server(debug=True,use_reloader=False)
+    #app.run_server(debug=True,use_reloader=False)
+    app.run_server(debug=False)
 
